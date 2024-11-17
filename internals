@@ -1,0 +1,15 @@
+Vishnu
+1Q. What is Mux and Demux? 
+    Built 4x1 Mux using two 2x1 mux.
+2Q.Synchronous counter vs Asynchronous counter?
+3Q.SR Flipflop Truth Table.
+4Q.SV logic to implement A to the power B(A^B)
+5Q. SV logic to implement 9 99 999 9999 99999 ....
+6Q.Write the comparision logic for Scoreboard of NAND gate.
+7Q.What is the difference between uvm_config_db and uvm_resource_db? Write the syntax and explain.
+8Q.What can be/are reasons for Data mismatch?
+9Q.What is out of order and interleaving in AXI?
+10Q.Why AXI have 4KB boundary?
+11.What are reasons for test failure in soc? and How will you find the source bug?
+12Q. major issues found in Testbench and How did you dibug it?
+
