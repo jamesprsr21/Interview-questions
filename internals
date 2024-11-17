@@ -40,3 +40,21 @@
 37Q. What is phase? Explain the order of phase.
 38Q.Which phase consumes time/delay and why?
 
+Gaurav:
+1Q. Setup time & Hold time ?Explain using waveform.
+2Q. What is Johnson counter? Draw Ring counter and Johnson counter 4bit.
+3Q.Draw the state diagram of 11x10
+4Q.Verilog code for D latch
+5Q. Verilog code for Up-counter.
+6Q. Verilog code for FIFO.
+7Q. Verilog code for Dual port RAM.
+8Q.Swaping of values of 2 variable using different technics.
+9Q. Randomize a 128 bit variable using $random keyword.
+10Q. Dynamic casting and static casting.
+11Q.What is clocking block?
+12Q. What is uvm_config_db?
+13Q.Draw the APB state diagram.
+
+
+
+
