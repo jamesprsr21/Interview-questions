@@ -1,9 +1,10 @@
-Vishnu
-1Q. What is Mux and Demux? 
+ Vishnu
+1Q. What is Mux and Demux? Application of DEMUX.
     Built 4x1 Mux using two 2x1 mux.
 2Q.Synchronous counter vs Asynchronous counter?
 3Q.SR Flipflop Truth Table.
-4Q.SV logic to implement A to the power B(A^B)
+4Q.SV logic to implement A to the power B(A^B). or
+ Write code for power of 2 without ** operator.
 5Q. SV logic to implement 9 99 999 9999 99999 ....
 6Q.Write the comparision logic for Scoreboard of NAND gate.
 7Q.What is the difference between uvm_config_db and uvm_resource_db? Write the syntax and explain.
@@ -11,5 +12,31 @@ Vishnu
 9Q.What is out of order and interleaving in AXI?
 10Q.Why AXI have 4KB boundary?
 11.What are reasons for test failure in soc? and How will you find the source bug?
-12Q. major issues found in Testbench and How did you dibug it?
+12Q. What are the major issues found while workig on SOC tb and How did you dibugged it?
+13Q. initial vs final block.
+14Q. What is UVM heartbeat?
+15Q.What is set before constraint and bidirectional constraint, inline constraint?
+16Q.Write the seq_item of AXI.
+17Q.What is FSM? Mealy vs Moore fsm.
+18Q.Contrsaint for table of 5.
+19Q.What is Phase jumping?
+20Q.What is Draint time?
+21Q.Write the driver logic of FIFO.
+22Q.Generate 400MHz clock.
+23Q. Combinational vs Sequential Circuit?
+24Q. What is setup time and hold time?
+25Q.what is illegal bins vs ignore bins?
+26Q.IP vs SOC difference?
+27Q.Difference between Encode vs Decoder?
+28Q. Why do we use wait statement?
+29Q.Active vs Reactive region?
+30Q.Dynamic vs Associative array declaration?
+31Q.Frequency Devider verilog code for f/2, f/3, f/4.
+32Q.What is setmembership in constraint?
+33Q.What is uvm_subscriber?
+34Q.Driver- Sequence handshaking process?
+35Q.Diffrence between Locked transfer vs Exclusive transfer?
+36Q.If a code coverage is 90%, Funca=tional coverage is 70%.How will you improve the coverage?
+37Q. What is phase? Explain the order of phase.
+38Q.Which phase consumes time/delay and why?
 
